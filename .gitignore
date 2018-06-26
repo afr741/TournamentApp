@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+/bin/
+=======
+<<<<<<< HEAD
+/bin/
+=======
+/account.class
+/bracket.class
+/coach.class
+/location.class
+/match.class
+/notify.class
+/organizer.class
+/player.class
+/referee.class
+/registration.class
+/results.class
+/schedule.class
+/score.class
+/spectator.class
+/team.class
+/tournament.class
+/tournamentStyle.class
+/volleyballFrame$createDetailsListener.class
+/volleyballFrame$createTournamentListener.class
+/volleyballFrame.class
+/volleyballTester.class
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jgoodies-forms-1.8.0.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/jgoodies-forms-1.8.0-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/Project/jgoodies-forms-1.8.0-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Project/jgoodies-forms-1.8.0.jar!/"/>
+	</lib>
+	<lib name="miglayout15-swing.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/miglayout-src.zip!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/Project/miglayout-src.zip!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Project/miglayout15-swing.jar!/"/>
+	</lib>
+	<lib name="jgoodies-common-1.8.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Project/jgoodies-common-1.8.1.jar!/"/>
+	</lib>
+	<lib name="jcalendar-1.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Project/jcalendar-1.4.jar!/"/>
+	</lib>
+</component>
