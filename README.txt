@@ -9,8 +9,8 @@ Group Members:
 -Ryan Ley
 -Donald Ryan
 -Stephen Pelley
-Anush Rakhmatov: 7 pts
-Caelan Hunt: 7pts
+Anush Rakhmatov
+Caelan Hunt: 
 
 
 About our program:
