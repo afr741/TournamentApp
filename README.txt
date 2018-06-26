@@ -9,8 +9,8 @@ Group Members:
 -Ryan Ley
 -Donald Ryan
 -Stephen Pelley
-Anush Rakhmatov
-Caelan Hunt: 
+-Anush Rakhmatov
+-Caelan Hunt
 
 
 About our program:
